@@ -5,5 +5,7 @@ This work is my personal continuation of a RL hackathon carried out with my coll
 As such, some of the code in this repository was written by my excellent teammates [Kefei Hu](https://github.com/CuriousKomodo)
 and [Joe Olley](https://github.com/YelloJW).
 
-
+<p align="center">
+    <img src="readme.gif"/>
+</p>
 
